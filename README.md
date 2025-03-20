@@ -10,6 +10,9 @@ This repository provides a Python script to run Multi-Query RAG (Retrieval-Augme
 - **RAG Fusion**: Uses Reciprocal Rank Fusion (RRF) to merge retrieved results, boosting relevance and recall.
 - **End-to-End Pipeline**: Covers document indexing, retrieval, fusion, and final response generation.
 
+## Diagram
+![RAG Fusion Flow](rag-fusion.png)
+
 ## Setup
 ### Prerequisites
 Ensure you have Python installed, then install the required dependencies:
